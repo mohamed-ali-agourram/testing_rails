@@ -72,3 +72,9 @@ gem "mysql2", "~> 0.5.5"
 gem "rspec-rails", "~> 6.1"
 
 gem "dotenv-rails", "~> 2.8"
+
+gem "rails-controller-testing", "~> 1.0"
+
+gem "factory_bot_rails", "~> 6.4"
+
+gem "faker", "~> 3.2"
